@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.24717948717948718" />
+        <entry key="..\:/V Mart/V Mart (1)/V Mart/app/src/main/res/layout/activity_cart.xml" value="0.136" />
+        <entry key="..\:/V Mart/V Mart (1)/V Mart/app/src/main/res/layout/activity_check_out_page.xml" value="0.136" />
+        <entry key="..\:/V Mart/V Mart (1)/V Mart/app/src/main/res/layout/activity_order_placed.xml" value="0.12" />
+        <entry key="..\:/V Mart/V Mart (1)/V Mart/app/src/main/res/layout/activity_razor_pay_web_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/V Mart/V Mart (1)/V Mart/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/V Mart/V Mart (1)/V Mart/app/src/main/res/layout/layout_cart_stepper.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/activity_cart.xml" value="0.11956521739130435" />
+        <entry key="app/src/main/res/layout/adapter_cart.xml" value="0.11956521739130435" />
+        <entry key="app/src/main/res/layout/adapter_products.xml" value="0.11956521739130435" />
+        <entry key="app/src/main/res/layout/progress_dialog.xml" value="0.11041666666666666" />
+        <entry key="app/src/main/res/layout/toolbay_lay_1.xml" value="0.11956521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

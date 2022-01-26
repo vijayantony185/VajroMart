@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">V Mart</string>
+    <string name="hint_search_menu"><font size="12">Product Name</font></string>
+</resources>
